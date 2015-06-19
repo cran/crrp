@@ -1,0 +1,11 @@
+useDynLib(crrp)
+export(crrp, gcrrp)
+import(
+  survival
+)
+import(
+  Matrix
+)
+import(
+  cmprsk
+)

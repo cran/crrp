@@ -1,0 +1,7 @@
+6c8edd9d2e6a2e17a80c63620178bdef *DESCRIPTION
+477a62a702c7685c5a9ac274f5cb2234 *NAMESPACE
+a4ec4a81431a8fecd9e6bf96ec24b5f6 *R/crrp.R
+bcbe438521599fc85cbca3e0f8db83fb *R/gcrrp.R
+dd1039820951c2d862be1492d6e79417 *man/crrp.Rd
+b1e8656a4f68646b0fe63cb03a297b49 *man/gcrrp.Rd
+d64d58dbc1a106f86e18ac1dfe159b14 *src/crrp.c
